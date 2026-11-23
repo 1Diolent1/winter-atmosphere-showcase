@@ -28,6 +28,20 @@ Some features are still experimental and undergoing in-game validation.
 
 ## 📸 Screenshots & Demonstrations
 
+### Dynamic Winter Weather
+
+Three real in-game screenshots captured from the same viewpoint show clear skies, overcast conditions, and active snowfall.
+
+| Clear | Overcast | Snowfall |
+|:---:|:---:|:---:|
+| ![Clear winter sky](screenshots/weather-clear.png) | ![Overcast winter sky](screenshots/weather-overcast.png) | ![Snowfall weather](screenshots/weather-snowfall.png) |
+
+### Developer Panel (F8)
+
+An in-game developer interface for selecting weather states, adjusting snowfall intensity, and testing transition duration.
+
+![Winter Atmosphere Developer Panel](screenshots/developer-panel.png)
+
 ### Natural Snowdrifts | Test Arena
 
 Three real in-game screenshots captured in the Winter Atmosphere development test arena, showing different layered snowdrift shapes and profiles.
