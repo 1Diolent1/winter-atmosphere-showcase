@@ -28,7 +28,21 @@ Some features are still experimental and undergoing in-game validation.
 
 ## 📸 Screenshots & Demonstrations
 
-Gameplay screenshots and videos coming soon.
+### Natural Snowdrifts | Test Arena
+
+Three real in-game screenshots captured in the Winter Atmosphere development test arena, showing different layered snowdrift shapes and profiles.
+
+![Layered snowdrift profile](screenshots/snowdrift-profile.png)
+
+![Complex multi-peak snowdrift](screenshots/snowdrift-complex.png)
+
+![Wide snowdrift shape](screenshots/snowdrift-wide.png)
+
+**Technical notes:** The Natural Snowdrifts v4 implementation uses deterministic shape variation and incremental block placement with a dedicated per-tick budget. Large snowdrifts target a base radius of 14 blocks, with a randomized range of 12–16 blocks.
+
+*These images show test-arena results, not proof of natural-world spawning or performance under load. The three screenshots are not labeled as SMALL, MEDIUM, or LARGE because their exact spawn types have not been verified.*
+
+Additional weather and developer-panel demonstrations are being prepared.
 
 ## 👨‍💻 About the Developer
 
